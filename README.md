@@ -2,6 +2,6 @@
 
 Для добавление нового отчета, достаточно лишь написать функцию, вычисляющую необходимый показатель из имеющихся данных, и вызвать ее из main функии. Например:
 
-`if args.report == 'average':<br>
-    for employe in employees:<br>
-        average = calculate_average()<br>`
+`if args.report == 'average':`
+    `for employe in employees:`
+        `average = calculate_average()`
