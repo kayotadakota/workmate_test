@@ -9,4 +9,5 @@ if args.report == 'average':
 ```
 
 Пример сформированного отчета:
+
 ![example](/sample.png)
