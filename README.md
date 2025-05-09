@@ -7,3 +7,6 @@ if args.report == 'average':
     for employe in employees:
         average = calculate_average()
 ```
+
+Пример сформированного отчета:
+![example](/sample.png)
